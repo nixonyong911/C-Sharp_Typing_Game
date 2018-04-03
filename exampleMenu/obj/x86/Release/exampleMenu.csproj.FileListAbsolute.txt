@@ -1,0 +1,85 @@
+C:\Users\wengkeong94\AppData\Local\Temporary Projects\exampleMenu\bin\Release\exampleMenu.exe
+C:\Users\wengkeong94\AppData\Local\Temporary Projects\exampleMenu\bin\Release\exampleMenu.pdb
+C:\Users\wengkeong94\AppData\Local\Temporary Projects\exampleMenu\obj\x86\Release\exampleMenu.Menu.resources
+C:\Users\wengkeong94\AppData\Local\Temporary Projects\exampleMenu\obj\x86\Release\exampleMenu.Properties.Resources.resources
+C:\Users\wengkeong94\AppData\Local\Temporary Projects\exampleMenu\obj\x86\Release\exampleMenu.csproj.GenerateResource.Cache
+C:\Users\wengkeong94\AppData\Local\Temporary Projects\exampleMenu\obj\x86\Release\exampleMenu.exe
+C:\Users\wengkeong94\AppData\Local\Temporary Projects\exampleMenu\obj\x86\Release\exampleMenu.pdb
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.exe
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.pdb
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\bin\Release\exampleMenu.exe
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\bin\Release\exampleMenu.pdb
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.Menu.resources
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.keyboard.resources
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.Properties.Resources.resources
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.csproj.GenerateResource.Cache
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.csprojResolveAssemblyReference.cache
+C:\Users\13006671\Desktop\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.exe
+C:\Users\13006671\Desktop\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.pdb
+C:\Users\13006671\Desktop\exampleMenu\exampleMenu\bin\Release\exampleMenu.exe
+C:\Users\13006671\Desktop\exampleMenu\exampleMenu\bin\Release\exampleMenu.pdb
+C:\Users\13006671\Desktop\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.csprojResolveAssemblyReference.cache
+C:\Users\13006671\Desktop\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.Menu.resources
+C:\Users\13006671\Desktop\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.keyboard.resources
+C:\Users\13006671\Desktop\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.Properties.Resources.resources
+C:\Users\13006671\Desktop\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.csproj.GenerateResource.Cache
+E:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.exe
+E:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.pdb
+E:\c sharp assignment1\exampleMenu\exampleMenu\bin\Release\exampleMenu.exe
+E:\c sharp assignment1\exampleMenu\exampleMenu\bin\Release\exampleMenu.pdb
+E:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.csprojResolveAssemblyReference.cache
+E:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.Menu.resources
+E:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.keyboard.resources
+E:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.Properties.Resources.resources
+E:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.csproj.GenerateResource.Cache
+H:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.exe
+H:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.pdb
+H:\c sharp assignment1\exampleMenu\exampleMenu\bin\Release\exampleMenu.exe
+H:\c sharp assignment1\exampleMenu\exampleMenu\bin\Release\exampleMenu.pdb
+H:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.csprojResolveAssemblyReference.cache
+H:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.Menu.resources
+H:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.keyboard.resources
+H:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.Properties.Resources.resources
+H:\c sharp assignment1\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.csproj.GenerateResource.Cache
+C:\Users\wengkeong94\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.exe
+C:\Users\wengkeong94\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Release\exampleMenu.pdb
+C:\Users\nixonyong911\Desktop\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.exe
+C:\Users\nixonyong911\Desktop\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.pdb
+C:\Users\nixonyong911\Desktop\exampleMenu(final typing latest)\exampleMenu\bin\Release\exampleMenu.exe
+C:\Users\nixonyong911\Desktop\exampleMenu(final typing latest)\exampleMenu\bin\Release\exampleMenu.pdb
+C:\Users\nixonyong911\Desktop\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.csprojResolveAssemblyReference.cache
+C:\Users\nixonyong911\Desktop\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.Menu.resources
+C:\Users\nixonyong911\Desktop\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.keyboard.resources
+C:\Users\nixonyong911\Desktop\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.Properties.Resources.resources
+C:\Users\nixonyong911\Desktop\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.csproj.GenerateResource.Cache
+C:\Users\nixonyong911\Desktop\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.point.resources
+C:\Users\wengkeong94\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.exe
+C:\Users\wengkeong94\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.pdb
+C:\Users\wengkeong94\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\bin\Release\exampleMenu.exe
+C:\Users\wengkeong94\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\bin\Release\exampleMenu.pdb
+C:\Users\wengkeong94\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.csprojResolveAssemblyReference.cache
+C:\Users\wengkeong94\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.point.resources
+C:\Users\wengkeong94\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.Menu.resources
+C:\Users\wengkeong94\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.keyboard.resources
+C:\Users\wengkeong94\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.Properties.Resources.resources
+C:\Users\wengkeong94\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.csproj.GenerateResource.Cache
+C:\Users\nixonyong911\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.exe
+C:\Users\nixonyong911\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.pdb
+C:\Users\nixonyong911\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.csprojResolveAssemblyReference.cache
+C:\Users\nixonyong911\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.point.resources
+C:\Users\nixonyong911\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.Menu.resources
+C:\Users\nixonyong911\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.keyboard.resources
+C:\Users\nixonyong911\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.Properties.Resources.resources
+C:\Users\nixonyong911\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.csproj.GenerateResource.Cache
+C:\Users\nixonyong911\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\bin\Release\exampleMenu.exe
+C:\Users\nixonyong911\Desktop\something like tis\exampleMenu(final typing latest)\exampleMenu\bin\Release\exampleMenu.pdb
+C:\Users\wengkeong94\Desktop\MOST_UPDATED_KEYBOARD\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.exe
+C:\Users\wengkeong94\Desktop\MOST_UPDATED_KEYBOARD\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.pdb
+C:\Users\wengkeong94\Desktop\MOST_UPDATED_KEYBOARD\something like tis\exampleMenu(final typing latest)\exampleMenu\bin\Release\exampleMenu.exe
+C:\Users\wengkeong94\Desktop\MOST_UPDATED_KEYBOARD\something like tis\exampleMenu(final typing latest)\exampleMenu\bin\Release\exampleMenu.pdb
+C:\Users\wengkeong94\Desktop\MOST_UPDATED_KEYBOARD\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.csprojResolveAssemblyReference.cache
+C:\Users\wengkeong94\Desktop\MOST_UPDATED_KEYBOARD\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.point.resources
+C:\Users\wengkeong94\Desktop\MOST_UPDATED_KEYBOARD\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.Menu.resources
+C:\Users\wengkeong94\Desktop\MOST_UPDATED_KEYBOARD\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.keyboard.resources
+C:\Users\wengkeong94\Desktop\MOST_UPDATED_KEYBOARD\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.Properties.Resources.resources
+C:\Users\wengkeong94\Desktop\MOST_UPDATED_KEYBOARD\something like tis\exampleMenu(final typing latest)\exampleMenu\obj\x86\Release\exampleMenu.csproj.GenerateResource.Cache

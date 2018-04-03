@@ -1,0 +1,32 @@
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\bin\Debug\exampleMenu.exe
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\bin\Debug\exampleMenu.pdb
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.Menu.resources
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.Properties.Resources.resources
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.csproj.GenerateResource.Cache
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.exe
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.pdb
+C:\Users\wengkeong94\documents\visual studio 2010\Projects\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.keyboard.resources
+C:\Users\wengkeong94\Desktop\nixon file\exampleMenu\exampleMenu\bin\Debug\exampleMenu.exe
+C:\Users\wengkeong94\Desktop\nixon file\exampleMenu\exampleMenu\bin\Debug\exampleMenu.pdb
+C:\Users\wengkeong94\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.Menu.resources
+C:\Users\wengkeong94\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.keyboard.resources
+C:\Users\wengkeong94\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.Properties.Resources.resources
+C:\Users\wengkeong94\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.csproj.GenerateResource.Cache
+C:\Users\wengkeong94\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.exe
+C:\Users\wengkeong94\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.pdb
+E:\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.exe
+E:\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.pdb
+E:\nixon file\exampleMenu\exampleMenu\bin\Debug\exampleMenu.exe
+E:\nixon file\exampleMenu\exampleMenu\bin\Debug\exampleMenu.pdb
+E:\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.Menu.resources
+E:\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.keyboard.resources
+E:\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.Properties.Resources.resources
+E:\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.csproj.GenerateResource.Cache
+C:\Users\12022869\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.exe
+C:\Users\12022869\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.pdb
+C:\Users\12022869\Desktop\nixon file\exampleMenu\exampleMenu\bin\Debug\exampleMenu.exe
+C:\Users\12022869\Desktop\nixon file\exampleMenu\exampleMenu\bin\Debug\exampleMenu.pdb
+C:\Users\12022869\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.Menu.resources
+C:\Users\12022869\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.keyboard.resources
+C:\Users\12022869\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.Properties.Resources.resources
+C:\Users\12022869\Desktop\nixon file\exampleMenu\exampleMenu\obj\x86\Debug\exampleMenu.csproj.GenerateResource.Cache
